@@ -13,4 +13,4 @@ Java based twitter bot
   
   
   <br><br>
-  this ia a work in progresss
+  this is a work in progresss
