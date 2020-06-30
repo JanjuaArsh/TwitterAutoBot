@@ -9,7 +9,7 @@ Java based twitter bot
     oauth.consumerSecret=
     oauth.accessToken=
     oauth.accessTokenSecret=
-  3. build the project as a maven project- and run as java application
+  3. run
   
   
   <br><br>
